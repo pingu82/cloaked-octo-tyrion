@@ -1,0 +1,16 @@
+body {
+	background-color: gray;
+	font-family: Helvetica;
+}
+
+.test {
+	color: red;
+	font-size: larger;
+}
+
+h1 { 
+	font-size: x-large;
+	text-align: center;
+	font-variant: small-caps;
+	font-family: Helvetica, "MS Trebuchet", sans-serif;
+}
